@@ -96,7 +96,7 @@ local demo:
 ## Setup
 
 ```bash
-python3 -m venv venv
+python3 -m venv myenv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 
 pip install -r requirements.txt
